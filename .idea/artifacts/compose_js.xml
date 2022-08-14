@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="compose-js">
+    <output-path>$PROJECT_DIR$/common/compose/build/libs</output-path>
+    <root id="archive" name="compose-js.jar" />
+  </artifact>
+</component>
