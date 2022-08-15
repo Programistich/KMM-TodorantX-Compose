@@ -1,0 +1,5 @@
+# Please change version too in settings.gradle.kts
+[versions]
+kotlin = "1.7.0"
+
+[libraries]
