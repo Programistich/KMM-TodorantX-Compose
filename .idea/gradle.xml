@@ -7,14 +7,15 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="corretto-17" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/android" />
-            <option value="$PROJECT_DIR$/buildSrc" />
-            <option value="$PROJECT_DIR$/common" />
-            <option value="$PROJECT_DIR$/common/compose" />
+            <option value="$PROJECT_DIR$/compose" />
+            <option value="$PROJECT_DIR$/compose-ios" />
+            <option value="$PROJECT_DIR$/compose-macos" />
+            <option value="$PROJECT_DIR$/desktop-jvm" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

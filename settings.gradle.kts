@@ -23,4 +23,7 @@ pluginManagement {
 
 rootProject.name = "TodorantX"
 include(":android")
-include(":common:compose")
+include(":compose")
+include(":compose-ios")
+include(":compose-macos")
+include(":desktop-jvm")

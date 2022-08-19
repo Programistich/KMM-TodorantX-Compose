@@ -1,5 +1,15 @@
-# Please change version too in settings.gradle.kts
-[versions]
-kotlin = "1.7.0"
-
-[libraries]
+## Please change version too in settings.gradle.kts
+#[versions]
+#kotlin-general = "1.6.21"
+#android-gradle = "7.2.2"
+#compose = "1.2.0-alpha01-dev725"
+#
+#[libraries]
+#android-gradle = { module = "com.android.tools.build:gradle", version.ref = "android-gradle" }
+#compose-gradle = { module = "org.jetbrains.compose:compose-gradle-plugin", version.ref = "compose" }
+#kotlin-annotation-processing = { module = "org.jetbrains.kotlin:kotlin-annotation-processing-embeddable", version.ref = "kotlin-general" }
+#kotlin-compiler = { module = "org.jetbrains.kotlin:kotlin-compiler-embeddable", version.ref = "kotlin-general" }
+#kotlin-gradle-plugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin-general" }
+#kotlin-gradle-plugin-api = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin-api", version.ref = "kotlin-general" }
+#kotlin-reflect = { module = "org.jetbrains.kotlin:kotlin-reflect", version.ref = "kotlin-general" }
+#kotlin-stdlib-jdk8 = { module = "org.jetbrains.kotlin:kotlin-stdlib-jdk8", version.ref = "kotlin-general" }

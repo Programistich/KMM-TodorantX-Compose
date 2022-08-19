@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="desktop-jvm-desktop">
+    <output-path>$PROJECT_DIR$/desktop-jvm/build/libs</output-path>
+    <root id="archive" name="desktop-jvm-desktop.jar">
+      <element id="module-output" name="TodorantX.desktop-jvm.desktopMain" />
+    </root>
+  </artifact>
+</component>
